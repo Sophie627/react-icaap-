@@ -23,7 +23,7 @@
     "react-vega-lite": "^6.1.0",
     "vega": "^5.10.1",
     "vega-lite": "^4.11.0",
-    "xlsx": "^0.15.6"
+    "xlsx": "^0.17.0"
   },
   "scripts": {
     "start": "react-scripts start",
